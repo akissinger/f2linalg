@@ -1,0 +1,3 @@
+This is a simple (one-file) Python library for doing basic linear algebra over the two-element field F2. It can be used for multiplying matrices and vectors over F2, computing (reduced) echelon form of matrices, inverting matrices, solving linear systems, and computing nullspaces. Everything is implemented in the `Mat2` object. See `demo.ipynb` for a tour of the various methods it exposes.
+
+This code was originally part of [PyZX](https://github.com/Quantomatic/pyzx/) and is licensed under Apache 2. Have fun!
